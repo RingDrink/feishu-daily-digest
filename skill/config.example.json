@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated": "2026-06-15",
+  "window_hours": 26,
+  "max_chats_scan": 120,
+  "early_stop_empties": 15,
+  "blacklist_keywords": [
+    "示例：某个你不想看的群名关键词"
+  ],
+  "sysbot_names": [
+    "日历助手", "云文档助手", "账号安全中心", "审批",
+    "飞书项目", "飞书 aily", "会议预约", "飞书招聘",
+    "飞书人事", "飞书绩效"
+  ],
+  "my_open_id": "ou_xxxxxxxxxxxxx",
+  "bot": {
+    "app_id": "cli_xxxxxxxxxxxxx",
+    "app_secret": "***"
+  }
+}
